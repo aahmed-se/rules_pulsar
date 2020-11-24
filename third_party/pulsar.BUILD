@@ -1,5 +1,5 @@
 # Description:
-#   Pulsar C++ client library
+# Pulsar C++ client library
 
 licenses(["notice"])  # Apache 2.0
 
